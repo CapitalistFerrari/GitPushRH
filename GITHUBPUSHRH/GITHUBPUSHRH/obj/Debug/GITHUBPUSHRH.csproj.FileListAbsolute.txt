@@ -1,0 +1,7 @@
+C:\Users\Ryan\Desktop\GITHUBPUSHRH\GITHUBPUSHRH\bin\Debug\GITHUBPUSHRH.exe.config
+C:\Users\Ryan\Desktop\GITHUBPUSHRH\GITHUBPUSHRH\bin\Debug\GITHUBPUSHRH.exe
+C:\Users\Ryan\Desktop\GITHUBPUSHRH\GITHUBPUSHRH\bin\Debug\GITHUBPUSHRH.pdb
+C:\Users\Ryan\Desktop\GITHUBPUSHRH\GITHUBPUSHRH\obj\Debug\GITHUBPUSHRH.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\GITHUBPUSHRH\GITHUBPUSHRH\obj\Debug\GITHUBPUSHRH.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\GITHUBPUSHRH\GITHUBPUSHRH\obj\Debug\GITHUBPUSHRH.exe
+C:\Users\Ryan\Desktop\GITHUBPUSHRH\GITHUBPUSHRH\obj\Debug\GITHUBPUSHRH.pdb
